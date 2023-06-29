@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Project on Web-Scrapping ICC Most Test Runs
 
 This project aims to scrape data from the website "https://www.espncricinfo.com/records/most-runs-in-career-223646" and extract information about the most runs scored in cricket careers. The code retrieves the HTML content of the web page, parses it using BeautifulSoup, and then extracts data from the table on the page.
 
